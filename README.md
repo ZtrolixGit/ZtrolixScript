@@ -1,0 +1,2 @@
+# ZtrolixScript
+Ztrolix Script.
